@@ -1,15 +1,23 @@
-Script started on 2016年03月04日 (週五) 20時12分00秒
-]0;F74044101@2015cpp: ~F74044101@2015cpp:~$ ls
-lab1.script
-]0;F74044101@2015cpp: ~F74044101@2015cpp:~$ whoami; pwd
-F74044101
-/home/F74044101
-]0;F74044101@2015cpp: ~F74044101@2015cpp:~$ git cond[Kfig -l
-user.name=terry62033201
-user.email=f74044101@mail.ncku.edu.tw
-]0;F74044101@2015cpp: ~F74044101@2015cpp:~$ git clone  https://github.com/terry62033201/Lab1.git
-Cloning into 'Lab1'...
-warning: You appear to have cloned an empty repository.
-]0;F74044101@2015cpp: ~F74044101@2015cpp:~$ exit
+Script started on 2016年03月05日 (週六) 17時01分29秒
+]0;F74044101@2015cpp: ~/Lab1[01;32mF74044101@2015cpp[00m:[01;34m~/Lab1[00m$ ./lab
+Enter the number :
+22
+22
+11
+34
+17
+52
+26
+13
+40
+20
+10
+5
+16
+8
+4
+2
+1
+]0;F74044101@2015cpp: ~/Lab1[01;32mF74044101@2015cpp[00m:[01;34m~/Lab1[00m$ exit
 
-Script done on 2016年03月04日 (週五) 20時12分23秒
+Script done on 2016年03月05日 (週六) 17時01分44秒
